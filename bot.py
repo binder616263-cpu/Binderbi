@@ -17,7 +17,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, Bot, Me
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, CallbackContext
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = "8563234382:AAHSeqliU1P6_uKUqtutKmk6v1dkJLffViY"
+BOT_TOKEN = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA"
 BOT_USERNAME = "Binders16bot"        # provided by you (no @)
 BUY_CREDITS_USERNAME = "LegendAi42" # contact username (no @)
 ADMIN_IDS = [6241487275]               # admin numeric IDs
