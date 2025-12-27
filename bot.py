@@ -37,15 +37,15 @@ CODES_FILE = "redeem_codes.json"
 BACKUP_META = "backup_meta.json"
 
 # API endpoints (as provided)
-PHONE_IN_API = "https://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.com/phone_in?number={num}"
-PHONE_PK_API = "https://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.com/phone_pk?number={num}"
-AADHAAR_API = "https://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.com/aadhaar?id={aadhaar}"
-FAMILY_AADHAAR_API = "https://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.com/family?id={aadhaar}"
-CNIC_API = "https://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.com/cnic?id={cnic}"
-RC_API = "https://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.com/rc?rc={rc}"
-VEHICLE_API = "https://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.com/vehicle?rc={rc}"
-IFSC_API = "https://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.com/ifsc?ifsc={ifsc}"
-UPI_API = "https://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.com/upi?id={upi}"
+PHONE_IN_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/phone_in?number={num}"
+PHONE_PK_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/phone_pk?number={num}"
+AADHAAR_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/aadhaar?id={aadhaar}"
+FAMILY_AADHAAR_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/family?id={aadhaar}"
+CNIC_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/cnic?id={cnic}"
+RC_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/rc?rc={rc}"
+VEHICLE_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/vehicle?rc={rc}"
+IFSC_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/ifsc?ifsc={ifsc}"
+UPI_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/upi?id={upi}"
 # if you have any problem to add api just Paste file+your api in chatgpt and ask🤠
 # or Contact Me- @R4HULxTRUSTED
 
