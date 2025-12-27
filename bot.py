@@ -37,15 +37,15 @@ CODES_FILE = "redeem_codes.json"
 BACKUP_META = "backup_meta.json"
 
 # API endpoints (as provided)
-PHONE_IN_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/phone_in?number={num}"
-PHONE_PK_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/phone_pk?number={num}"
-AADHAAR_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/aadhaar?id={aadhaar}"
-FAMILY_AADHAAR_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/family?id={aadhaar}"
-CNIC_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/cnic?id={cnic}"
-RC_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/rc?rc={rc}"
-VEHICLE_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/vehicle?rc={rc}"
-IFSC_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/ifsc?ifsc={ifsc}"
-UPI_API = "https://8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA.com/upi?id={upi}"
+PHONE_IN_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/phone_in?number={num}"
+PHONE_PK_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/phone_pk?number={num}"
+AADHAAR_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/aadhaar?id={aadhaar}"
+FAMILY_AADHAAR_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/family?id={aadhaar}"
+CNIC_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/cnic?id={cnic}"
+RC_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/rc?rc={rc}"
+VEHICLE_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/vehicle?rc={rc}"
+IFSC_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/ifsc?ifsc={ifsc}"
+UPI_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/upi?id={upi}"
 # if you have any problem to add api just Paste file+your api in chatgpt and ask🤠
 # or Contact Me- @R4HULxTRUSTED
 
