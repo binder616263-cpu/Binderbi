@@ -37,7 +37,7 @@ CODES_FILE = "redeem_codes.json"
 BACKUP_META = "backup_meta.json"
 
 # API endpoints (as provided)
-PHONE_IN_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/phone_in?number={num}"
+PHONE_IN_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/={num}"
 PHONE_PK_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/phone_pk?number={num}"
 AADHAAR_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/aadhaar?id={aadhaar}"
 FAMILY_AADHAAR_API = "8563234382:AAEp71kWvHKR9no4dcpYbRDVcbpmvvwSciA/family?id={aadhaar}"
